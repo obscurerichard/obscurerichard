@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @obscurerichard
+- 👀 I’m interested in software architecture, DevOps, distributed systems, Linux, Kubernetes, Docker and maintaining software systems over the long term.
+- 🌱 I’m currently learning more about Kubernetes on small systems (think Raspberry Pi)
+- 💞️ I’m looking to collaborate on getting my [non-profit, obscure.org](https://www.obscure.org/) migrated to a newer set of systems
+- 📫 You can reach me at [rbulling@obscure.org](mailto:rbulling@obscure.org] and other ways listed on my [home page](https://www.obscure.org/~rbulling/)
